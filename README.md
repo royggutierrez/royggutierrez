@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello World 👋
+I am **Roy Gutierrez** from Ayacucho - Peru
+
+* Frontend Junior Web Developer💻🌎
+* Network and communication administration student👨‍🎓🛰
+* I like to **Write Code** 👨‍💻, **Videogames** 🕹🎮, **Music** 🎵, **Read Books** 📖📗
+
+### Technologies :
+`Javascript` `HTML` `CSS` `Node`
+### 👍 Follow me : [@royggutierrez](https://github.com/royggutierrez "@royggutierrez")
+
 
 <!--
 **royggutierrez/royggutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
