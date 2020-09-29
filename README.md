@@ -1,7 +1,6 @@
 # Hello World 👋
 I am **Roy Gutierrez** from Ayacucho - Peru
 
-* Frontend Junior Web Developer💻🌎
 * Network and communication administration student👨‍🎓🛰
 * I like to **Write Code** 👨‍💻, **Videogames** 🕹🎮, **Music** 🎵, **Read Books** 📖📗
 
